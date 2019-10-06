@@ -1,0 +1,23 @@
+body {
+  margin: 40px;
+  font-family: monospace;
+  font-size: large;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: x-large;
+}
+
+.email-section:hover .email-note {
+  display: block;
+}
+
+a {
+  color: darkslategray;
+}
+
+.email-note {
+  display: none;
+}
